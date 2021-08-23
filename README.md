@@ -7,10 +7,12 @@ $ pkg install git
 $ pip install requests
 $ pip install bs4
 $ pip install futures  
-$ pip install mechanize 
+$ pip install mechanize
+$ rm -rf Senpai-Crack
 $ git clone https://github.com/NajarElite/Senpai-Crack  
 ```
 ####  Run Script
 ```
 $ cd Senpai-Crack  
 $ python run.py
+ 

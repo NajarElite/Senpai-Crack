@@ -17,6 +17,7 @@ $ cd Senpai-Crack
 $ python run.pyc
 ```
 #### Hasil
+![IMG_20210904_034051](https://user-images.githubusercontent.com/88718964/132063345-5dcb5924-82e5-486d-b1a3-73d1fe3dc337.jpg)
 
-![Screenshot_2021-09-04-00-11-30-465_com termux](https://user-images.githubusercontent.com/88718964/132062975-7c9223da-95a8-4de0-b3e9-50449d859309.jpg)
+
 

@@ -14,5 +14,5 @@ $ git clone https://github.com/NajarElite/Senpai-Crack
 ####  Run Script
 ```
 $ cd Senpai-Crack  
-$ python run.py
+$ python run.pyc
  
